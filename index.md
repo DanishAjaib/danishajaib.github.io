@@ -6,7 +6,6 @@ layout: default
 # Australia Rain Fall
 
 In this notebook, I explore a dataset about Rainfall in Australia and then train a model to predict whether it'll rain tomorrow or not based on the avaiable features.
-### Small image
 ![alt text](https://github.com/DanishAjaib/australia_rain_forecast/blob/main/aaa.JPG)
 
 

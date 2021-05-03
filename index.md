@@ -8,9 +8,7 @@ layout: default
 In this notebook, I explore a dataset about Rainfall in Australia and then train a model to predict whether it'll rain tomorrow or not based on the avaiable features.
 ### Small image
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
-
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][https://console.firebase.google.com/u/0/project/spesa-d740e/database/spesa-d740e/data]
 ## Header 2
 
 > This is a blockquote following a header.

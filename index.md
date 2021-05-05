@@ -6,7 +6,7 @@ layout: default
 # Australia Rain Fall
 
 In this notebook, I explore a dataset about Rainfall in Australia and then train a model to predict whether it'll rain tomorrow or not based on the avaiable features.
-##Tasks:
+## Tasks:
 1.   What is the minimum temperature ever recorded?
 2.   What is the maximum temperture ever recorded?
 3.   Which location gets the most Rainfall?

@@ -6,9 +6,11 @@ layout: default
 # Australia Rain Fall
 
 In this notebook, I explore a dataset about Rainfall in Australia and then train a model to predict whether it'll rain tomorrow or not based on the avaiable features.
-
-![screenshot](https://github.com/DanishAjaib/australia_rain_forecast/blob/main/aaa.jpg)
-
+##Tasks:
+1.   What is the minimum temperature ever recorded?
+2.   What is the maximum temperture ever recorded?
+3.   Which location gets the most Rainfall?
+4.   Train a model to predict next day rain. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SlxinDXQGj5aNeS-BjAImbUjd4xfwkOR#scrollTo=cS82QpFI3FSZ)
 ## Header 2

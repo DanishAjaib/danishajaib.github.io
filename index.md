@@ -14,13 +14,13 @@ In this notebook, I explore a dataset about Rainfall in Australia and then train
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SlxinDXQGj5aNeS-BjAImbUjd4xfwkOR#scrollTo=cS82QpFI3FSZ)
 
-## Heart Disease
+# Heart Disease
 
 Exploring and training a model on the Heart Disease dataset from Kaggle.
 ## Tasks:
 1.   Basic exploratory analysis
 2.   Train and evaluate several models to find the best one.
-3.   
+   
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gg-Y17vrYpp3xdzTqcXXoHaQoarkeHBo#scrollTo=32EP5GgvRUvK)
 
 

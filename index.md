@@ -20,7 +20,8 @@ Exploring and training a model on the Heart Disease dataset from Kaggle.
 ## Tasks:
 1.   Basic exploratory analysis
 2.   Train and evaluate several models to find the best one.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SlxinDXQGj5aNeS-BjAImbUjd4xfwkOR#scrollTo=cS82QpFI3FSZ)
+3.   
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gg-Y17vrYpp3xdzTqcXXoHaQoarkeHBo#scrollTo=32EP5GgvRUvK)
 
 
 ### Header 3

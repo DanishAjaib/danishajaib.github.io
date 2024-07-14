@@ -59,32 +59,50 @@ Recently completed the Google Advanced Data Analytics Certificate—a rigorous, 
 
 ### 5. Predicting Employee Churn
 - **Description:** Analysis and Training a model to predict employee churn.
-- **Skills:** Pandas, Python, Data Wrangling, Data Cleaning, Machine Learning, Data Visualization
-- **Technologies:** Python, Pandas, Scikit-learn, Matplotlib
+- **Skills and Tools:** Pandas, Python, Data Wrangling, Data Cleaning, Machine Learning, Data Visualization
 
 ### 5.SQL Data Analysis : COVID-19 impact on Global health and Vaccination progress
 - **Description:** Analysis and Training a model to predict employee churn.
-- **Skills:** SQL, SQL Server Management Studio
-- **Link: ** [Repository](https://github.com/DanishAjaib/covid_analysis_sql)
+- **Skills and Tools:** SQL, SQL Server Management Studio
+- **Link:** [Repository](https://github.com/DanishAjaib/covid_analysis_sql)
 
 ### 6. Tweet Analysis and Clustering
 - **Description:** A project demonstrating Data Cleaning, Enrichment, Analysis, Topic Extraction, Classification, Clustering and model training for a Twitter dataset.
-- **Skills:** Data Cleaning, Data Analysis, Machine Learning
-- **Link: ** [Repository](https://github.com/DanishAjaib/Tweet-Analysis-and-Clustering)
+- **Skills and Tools:** Data Cleaning, Data Analysis, Machine Learning
+- **Link:** [Repository](https://github.com/DanishAjaib/Tweet-Analysis-and-Clustering)
 
 ### 7. Budget Management App
 - **Description:** A budget management mobile app written in Java and Kotlin.
 - **Skills:** OOP, Java, Kotlin
-- **Link: ** [Code](https://gitfront.io/r/danishajaib/CipWDJRcygiL/SpesaBudgetManager/)
+- **Link:** [Code](https://gitfront.io/r/danishajaib/CipWDJRcygiL/SpesaBudgetManager/)
 
 ### 8. Python Script.
 - **Description:** A python api responsible for data cleaning and ingestion, and  automatic email monitoring and customer support.
-- **Skills and Tools:** Python, Elastic Search, Redis, Flask, Elastic Search, Cloud Firestore
-- **Link: ** [Code](https://gitfront.io/r/danishajaib/YFg4zJVy5TXo/email-server/)
+- **Skills and Tools:** Python, Pandas, Elastic Search, Redis, Flask, Elastic Search, Cloud Firestore
+- **Link:** [Code](https://gitfront.io/r/danishajaib/YFg4zJVy5TXo/email-server/)
 
-- 
+## Tableau Visualizations
+
+- **Title:** Bicycle Rental in Seoul
+- **Link:** (Viz)[https://public.tableau.com/app/profile/danish.ajaib/viz/SeoulBicycleRental_17064119275750/Dashboard1]
+
+- **Title:** Sales/Profit performance
+- **Link:** (Viz)[https://public.tableau.com/app/profile/danish.ajaib/viz/SeoulBicycleRental_17064119275750/Dashboard1]
+
+## Medium Articles
+
+- **Title:** Bicycle Rental in Seoul
+- **Link:** (Viz)[https://public.tableau.com/app/profile/danish.ajaib/viz/SeoulBicycleRental_17064119275750/Dashboard1]
+
+- **Title:** Sales/Profit performance
+- **Link:** (Viz)[https://public.tableau.com/app/profile/danish.ajaib/viz/SalesProfitPerformance_17206679136970/Dashboard-SalesPerformance]
+
+- **Title:** Email Campaign Dashboard
+- **Link:** (Viz)[https://public.tableau.com/app/profile/danish.ajaib/viz/EmailCampaignDashboard_17140166688400/Dashboard1]
+
+
 ## Certifications
-
+- **Description:** A budget management mobile app written in Java and Kotlin.
 - **Google Advanced Data Analytics Certification** [Certificate](https://www.coursera.org/account/accomplishments/specialization/LLZCWPL23U6R)
 - **Build and Operate Machine Learning Solutions with Azure**  [Certificate](https://coursera.org/share/https://coursera.org/share/521bc1dce8b6ffb8b8ab6c0c8c90de13)
 - **Study Australia Industry Experience Program Completer**  [Certificate](https://api.practera.com/achieve/user_achievements/assertion/d4r7junAW.json)

@@ -38,26 +38,51 @@ Recently completed the Google Advanced Data Analytics Certificate—a rigorous, 
 
 ## Projects
 
-### 1. Customer Segmentation
-- **Description:** Performed customer segmentation using K-means clustering on a retail dataset.
+### 1. A Survey of Cross-Domain Recomender Systems
+- **Description:** This work is a literature review and delves into overcoming traditional collaborative filtering challenges using advanced techniques like transfer learning and neural collaborative filtering. It highlights the transformative potential of these systems across diverse industries, from e-commerce to healthcare. My journey through this project enhanced my understanding of data science intricacies and future tech trends, contributing valuable insights into the evolution of user experience in digital domains.
+- **Link:** [Full Report](https://www.linkedin.com/in/danish-ajaib-865528107/details/projects/1704617200423/single-media-viewer?type=DOCUMENT&profileId=ACoAABrzyM0BjMYrqY8KqDQ1UnHu_HgkagWHQ6A&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BWtUyGPgpTSK7aQkaRwyPFA%3D%3D)
+
+### 2. Amazon Sentiment Analysis
+- **Description:** The project involved scraping amazing data using WebDriver then analysis and training a model to predict review sentiment.
+- **Technologies:** Python
+- **Link:** [Repository](https://github.com/DanishAjaib/Amazon-Sentiment-Analysis)
+
+### 3. Australia Rain Visualization and Forecast
+- **Description:** Analysis and Training of a model for predicting next day rain in Australia.
+- **Skills:** Pandas, Python, Web Scraping, EDA, Machine Learning
 - **Technologies:** Python, Pandas, Scikit-learn, Matplotlib
-- **Link:** [Customer Segmentation Project](https://github.com/username/customer-segmentation)
+- **Link:** [Repository](https://www.linkedin.com/in/danish-ajaib-865528107/details/projects/1705554905884/single-media-viewer?type=LINK&profileId=ACoAABrzyM0BjMYrqY8KqDQ1UnHu_HgkagWHQ6A&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BWtUyGPgpTSK7aQkaRwyPFA%3D%3D)
 
-### 2. Predictive Maintenance
-- **Description:** Developed a predictive maintenance model to predict equipment failure.
-- **Technologies:** Python, Scikit-learn, TensorFlow
-- **Link:** [Predictive Maintenance Project](https://github.com/username/predictive-maintenance)
+### 4. Market Analysis and Strategy for New Oat Milk Company
+- **Description:** In this project during my internship, I was part of a team of four tasked with developing a market analysis and marketing plan for an emerging oat milk brand. We conducted in-depth research on market trends and competitor strategies, focusing on plant-based dairy alternatives. Our approach included frequent collaborative team meetings and strategic discussions with the CEO, leading to a tailored marketing strategy. The strategy emphasized health, sustainability, and allergen-free benefits, targeting diverse consumer demographics. This project honed my skills in teamwork, strategic planning, and high-level corporate communication.
+- **Link:** [Full Report](https://www.linkedin.com/in/danish-ajaib-865528107/details/projects/1704617545125/single-media-viewer?type=DOCUMENT&profileId=ACoAABrzyM0BjMYrqY8KqDQ1UnHu_HgkagWHQ6A&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BWtUyGPgpTSK7aQkaRwyPFA%3D%3D)
 
-### 3. Real Estate Price Prediction
-- **Description:** Created a machine learning model to predict real estate prices based on various features.
+### 5. Predicting Employee Churn
+- **Description:** Analysis and Training a model to predict employee churn.
+- **Skills:** Pandas, Python, Data Wrangling, Data Cleaning, Machine Learning, Data Visualization
 - **Technologies:** Python, Pandas, Scikit-learn, Matplotlib
-- **Link:** [Real Estate Price Prediction Project](https://github.com/username/real-estate-price-prediction)
 
-### 4. Sentiment Analysis
-- **Description:** Conducted sentiment analysis on social media data using natural language processing.
-- **Technologies:** Python, NLTK, Scikit-learn
-- **Link:** [Sentiment Analysis Project](https://github.com/username/sentiment-analysis)
+### 5.SQL Data Analysis : COVID-19 impact on Global health and Vaccination progress
+- **Description:** Analysis and Training a model to predict employee churn.
+- **Skills:** SQL, SQL Server Management Studio
+- **Link: ** [Repository](https://github.com/DanishAjaib/covid_analysis_sql)
 
+### 6. Tweet Analysis and Clustering
+- **Description:** A project demonstrating Data Cleaning, Enrichment, Analysis, Topic Extraction, Classification, Clustering and model training for a Twitter dataset.
+- **Skills:** Data Cleaning, Data Analysis, Machine Learning
+- **Link: ** [Repository](https://github.com/DanishAjaib/Tweet-Analysis-and-Clustering)
+
+### 7. Budget Management App
+- **Description:** A budget management mobile app written in Java and Kotlin.
+- **Skills:** OOP, Java, Kotlin
+- **Link: ** [Code](https://gitfront.io/r/danishajaib/CipWDJRcygiL/SpesaBudgetManager/)
+
+### 8. Python Script.
+- **Description:** A python api responsible for data cleaning and ingestion, and  automatic email monitoring and customer support.
+- **Skills and Tools:** Python, Elastic Search, Redis, Flask, Elastic Search, Cloud Firestore
+- **Link: ** [Code](https://gitfront.io/r/danishajaib/YFg4zJVy5TXo/email-server/)
+
+- 
 ## Certifications
 
 - **Google Advanced Data Analytics Certification** [Certificate](https://www.coursera.org/account/accomplishments/specialization/LLZCWPL23U6R)
@@ -70,7 +95,7 @@ Recently completed the Google Advanced Data Analytics Certificate—a rigorous, 
 ## Experience
 
 ### Python Developer / Flutter Developer
-- **Duration:**August 2022 - Jan 2024
+- **Duration:** August 2022 - Jan 2024
 - **Responsibilities:**
   - Developed a backend server for a car park system using Python, Elastic Search, and Firestore,
     focusing on automating email monitoring and data processing/cleaning.
@@ -105,7 +130,7 @@ Feel free to reach out to me for collaboration or any inquiries.
 
 - **Email:** [danishajaib@outlook.com](mailto:danishajaib@outlook.com)
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [github.com/DanishAjaib/danishajaib.github.io](https://github.com/DanishAjaib/danishajaib.github.io)
+- **wakaTime:** [https://wakatime.com/@danishajaib](https://wakatime.com/@danishajaib)
 
 ---
 

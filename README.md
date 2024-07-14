@@ -14,7 +14,8 @@ Welcome to my Data Science portfolio! Here, you will find a collection of my pro
 
 ## About Me
 
-I hold a Master's degree in Data Science from Macquarie University and have completed Google's Advanced Data Analytics Certification. With over 10 years of experience as a hobbyist programmer and a freelancer, I have worked with several programming languages, including ActionScript 3, Java, Kotlin, and most recently Dart with Flutter. I have transitioned into data science, gaining hands-on experience through academic studies, university projects, personal projects, and coursework.
+Versatile individual with experience in exploratory data analysis, data visualization, hypothesis testing, logistic regression, and machine learning models like Naive Bayes, Logistic Regression and decision trees. Excellent understanding and proficiency of platforms for effective data analysis, cleaning, and visualization, including spreadsheets, Python, Tableau, and SQL. Strong communication, organizational, and analytical skills. 
+Recently completed the Google Advanced Data Analytics Certificate—a rigorous, hands-on program that covers the entire scope of the data analysis and data modeling process.. My educational foundation includes a Master's degree in Data Science from Macquarie University. I am actively seeking entry-level Data Scientist roles where I can further apply and expand my skills. I am particularly keen on self-teaching and adapting to new tools and technologies, demonstrating a commitment to continual learning and flexibility in my professional development.
 
 ## Skills
 
@@ -23,7 +24,7 @@ I hold a Master's degree in Data Science from Macquarie University and have comp
 - **Machine Learning:** Regression, Classification, Clustering, NLP, Deep Learning (TensorFlow, Keras)
 - **Data Visualization:** Matplotlib, Seaborn, Tableau
 - **Databases:** MySQL, PostgreSQL, SQLite
-- **Tools:** Jupyter Notebook, Git, Docker
+- **Tools:** Jupyter Notebook, Git
 
 ## Projects
 
@@ -50,29 +51,45 @@ I hold a Master's degree in Data Science from Macquarie University and have comp
 ## Certifications
 
 - **Google Advanced Data Analytics Certification**
-- **Tableau Desktop Specialist**
+- **Build and Operate Machine Learning Solutions with Azure**
+- **Study Australia Industry Experience Program Completer**
 
 ## Experience
 
 ### Python Developer
-- **Company:** Freelance
-- **Duration:** [Start Date] - Present
+- **Company:** Space Shuttle Parking
+- **Location:** Sydney
+- **Duration:** August 2022 - January 2024
 - **Responsibilities:**
   - Developed and maintained Python applications.
   - Collaborated with clients to understand their requirements and deliver high-quality solutions.
   - Utilized data analysis and visualization techniques to provide insights.
 
-### Freelance Android Developer
+### Python Developer / Flutter Developer
 - **Duration:** [Start Date] - Present
 - **Responsibilities:**
-  - Developed and maintained Android applications using Java and Kotlin.
-  - Worked on various freelance projects, delivering robust and efficient solutions.
-
+  - Developed a backend server for a car park system using Python, Elastic Search, and Firestore,
+    focusing on automating email monitoring and data processing/cleaning
+  - Created a Python script to monitor entry and exit camera streams, enabling automated gate operations for authorized
+    vehicles.
+  
+### Web Administrator
+- **Duration:** May 2021 - June 2022
+- **Company:** Possum Piper
+- **Location:** Sydney
+- **Responsibilities:**
+  - Created and managed WordPress websites in Wordpress.
+  - Analyzed website data to optimize experience and content.
+    
 ## Education
 
 - **Master of Data Science**
   - **Institution:** Macquarie University
-  - **Year:** [Graduation Year]
+  - **Year:** 2024
+- **Bachelors of Computer Science**
+  - **Institution:** Iqra University
+  - **Year:** 2018
+
 
 ## Contact
 

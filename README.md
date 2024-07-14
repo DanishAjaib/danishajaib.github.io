@@ -145,7 +145,7 @@ Recently completed the Google Advanced Data Analytics Certificate—a rigorous, 
 Feel free to reach out to me for collaboration or any inquiries.
 
 - **Email:** [danishajaib@outlook.com](mailto:danishajaib@outlook.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [danishajaib](https://www.linkedin.com/in/danish-ajaib-865528107)
 - **wakaTime:** [https://wakatime.com/@danishajaib](https://wakatime.com/@danishajaib)
 
 ---

@@ -26,6 +26,16 @@ Recently completed the Google Advanced Data Analytics Certificate—a rigorous, 
 - **Databases:** MySQL, PostgreSQL, SQLite
 - **Tools:** Jupyter Notebook, Git
 
+### Soft Skills
+
+- **Problem-Solving:** Ability to tackle complex issues and find efficient solutions.
+- **Communication:** Excellent verbal and written communication skills.
+- **Teamwork:** Experience working collaboratively in diverse team environments.
+- **Adaptability:** Quick to adapt to new technologies and methodologies.
+- **Time Management:** Proven ability to manage multiple projects and meet deadlines.
+- **Critical Thinking:** Strong analytical skills and attention to detail.
+- **Leadership:** Experience leading projects and mentoring team members.
+
 ## Projects
 
 ### 1. Customer Segmentation
@@ -53,7 +63,7 @@ Recently completed the Google Advanced Data Analytics Certificate—a rigorous, 
 - **Google Advanced Data Analytics Certification** [Certificate](https://www.coursera.org/account/accomplishments/specialization/LLZCWPL23U6R)
 - **Build and Operate Machine Learning Solutions with Azure**  [Certificate](https://coursera.org/share/https://coursera.org/share/521bc1dce8b6ffb8b8ab6c0c8c90de13)
 - **Study Australia Industry Experience Program Completer**  [Certificate](https://api.practera.com/achieve/user_achievements/assertion/d4r7junAW.json)
-- **Business Analysis Foundations**  [Certificate](https://www.linkedin.com/learning/certificates/2bf0d93c2b32bbdf6a380f7baf0daca611c8be65bfe6015bea5638c592d466de)trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BPMLRrx3%2FSTerYu%2FxBa7Xjw%3D%3D)
+- **Business Analysis Foundations**  [Certificate](https://www.linkedin.com/learning/certificates/2bf0d93c2b32bbdf6a380f7baf0daca611c8be65bfe6015bea5638c592d466detrk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BPMLRrx3%2FSTerYu%2FxBa7Xjw%3D%3D)
 - **Time Management Fundamentals**  [Certificate](https://www.linkedin.com/learning/certificates/d22bec6e4e60f5564ce73f486b70c7c6deae364d636362a2e15b59a0468f23c0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BPMLRrx3%2FSTerYu%2FxBa7Xjw%3D%3D)
 - **Microsoft Azure Machine Learning for Data Scientist**  [Certificate](https://coursera.org/share/695c787822b9ec8f7b0ed35a1a499f77)
 

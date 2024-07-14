@@ -50,22 +50,26 @@ Recently completed the Google Advanced Data Analytics Certificate—a rigorous, 
 
 ## Certifications
 
-- **Google Advanced Data Analytics Certification** [https://www.coursera.org/account/accomplishments/specialization/LLZCWPL23U6R]
-- **Build and Operate Machine Learning Solutions with Azure** [https://coursera.org/share/https://coursera.org/share/521bc1dce8b6ffb8b8ab6c0c8c90de13]
-- **Study Australia Industry Experience Program Completer** [https://api.practera.com/achieve/user_achievements/assertion/d4r7junAW.json]
-- **Business Analysis Foundations** [https://www.linkedin.com/learning/certificates/2bf0d93c2b32bbdf6a380f7baf0daca611c8be65bfe6015bea5638c592d466de?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BPMLRrx3%2FSTerYu%2FxBa7Xjw%3D%3D]
-- **Time Management Fundamentals** [https://www.linkedin.com/learning/certificates/d22bec6e4e60f5564ce73f486b70c7c6deae364d636362a2e15b59a0468f23c0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BPMLRrx3%2FSTerYu%2FxBa7Xjw%3D%3D]
-- **Microsoft Azure Machine Learning for Data Scientist** [https://coursera.org/share/695c787822b9ec8f7b0ed35a1a499f77]
+- **Google Advanced Data Analytics Certification** [Certificate](https://www.coursera.org/account/accomplishments/specialization/LLZCWPL23U6R)
+- **Build and Operate Machine Learning Solutions with Azure**  [Certificate](https://coursera.org/share/https://coursera.org/share/521bc1dce8b6ffb8b8ab6c0c8c90de13)
+- **Study Australia Industry Experience Program Completer**  [Certificate](https://api.practera.com/achieve/user_achievements/assertion/d4r7junAW.json)
+- **Business Analysis Foundations**  [Certificate](https://www.linkedin.com/learning/certificates/2bf0d93c2b32bbdf6a380f7baf0daca611c8be65bfe6015bea5638c592d466de)trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BPMLRrx3%2FSTerYu%2FxBa7Xjw%3D%3D)
+- **Time Management Fundamentals**  [Certificate](https://www.linkedin.com/learning/certificates/d22bec6e4e60f5564ce73f486b70c7c6deae364d636362a2e15b59a0468f23c0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BPMLRrx3%2FSTerYu%2FxBa7Xjw%3D%3D)
+- **Microsoft Azure Machine Learning for Data Scientist**  [Certificate](https://coursera.org/share/695c787822b9ec8f7b0ed35a1a499f77)
 
 ## Experience
 
 ### Python Developer / Flutter Developer
-- **Duration:** [Start Date] - Present
+- **Duration:**August 2022 - Jan 2024
 - **Responsibilities:**
   - Developed a backend server for a car park system using Python, Elastic Search, and Firestore,
-    focusing on automating email monitoring and data processing/cleaning
+    focusing on automating email monitoring and data processing/cleaning.
+  - Integrated AI-driven functionalities, including an OpenAI GPT assistant for customer support.
   - Created a Python script to monitor entry and exit camera streams, enabling automated gate operations for authorized
     vehicles.
+  - Created Multiple fontend app for Android/iOS and Windows using Flutter/Dart.
+  - Used ElasticSearch and Heroku to integrate Full Text Search and to create complex aggregations for visualizating different metrics.
+
   
 ### Web Administrator
 - **Duration:** May 2021 - June 2022

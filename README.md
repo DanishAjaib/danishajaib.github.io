@@ -81,26 +81,24 @@ Recently completed the Google Advanced Data Analytics Certificate—a rigorous, 
 - **Skills and Tools:** Python, Pandas, Elastic Search, Redis, Flask, Elastic Search, Cloud Firestore
 - **Link:** [Code](https://gitfront.io/r/danishajaib/YFg4zJVy5TXo/email-server/)
 
+
 ## Tableau Visualizations
 
 - **Title:** Bicycle Rental in Seoul
-- **Link:** (Viz)[https://public.tableau.com/app/profile/danish.ajaib/viz/SeoulBicycleRental_17064119275750/Dashboard1]
+- **Link:** [Viz][https://public.tableau.com/app/profile/danish.ajaib/viz/SeoulBicycleRental_17064119275750/Dashboard1]
 
 - **Title:** Sales/Profit performance
-- **Link:** (Viz)[https://public.tableau.com/app/profile/danish.ajaib/viz/SeoulBicycleRental_17064119275750/Dashboard1]
+- **Link:** [Viz][https://public.tableau.com/app/profile/danish.ajaib/viz/SalesProfitPerformance_17206679136970/Dashboard-SalesPerformance]
+
+- **Title:** Email Campaign Dashboard
+- **Link:** [Viz][https://public.tableau.com/app/profile/danish.ajaib/viz/EmailCampaignDashboard_17140166688400/Dashboard1]
 
 ## Medium Articles
 
-- **Title:** Bicycle Rental in Seoul
-- **Link:** (Viz)[https://public.tableau.com/app/profile/danish.ajaib/viz/SeoulBicycleRental_17064119275750/Dashboard1]
+- **Title:** A Comprehensive beginner friendly guide to SQL for Data Science
+- **Link:** (Article)(https://medium.com/@danishajaib93/a-comprehensive-beginner-friendly-guide-to-sql-for-data-science-f0897b09d0dd)
 
-- **Title:** Sales/Profit performance
-- **Link:** (Viz)[https://public.tableau.com/app/profile/danish.ajaib/viz/SalesProfitPerformance_17206679136970/Dashboard-SalesPerformance]
-
-- **Title:** Email Campaign Dashboard
-- **Link:** (Viz)[https://public.tableau.com/app/profile/danish.ajaib/viz/EmailCampaignDashboard_17140166688400/Dashboard1]
-
-
+  
 ## Certifications
 - **Description:** A budget management mobile app written in Java and Kotlin.
 - **Google Advanced Data Analytics Certification** [Certificate](https://www.coursera.org/account/accomplishments/specialization/LLZCWPL23U6R)

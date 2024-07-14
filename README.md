@@ -50,20 +50,14 @@ Recently completed the Google Advanced Data Analytics Certificate—a rigorous, 
 
 ## Certifications
 
-- **Google Advanced Data Analytics Certification**
-- **Build and Operate Machine Learning Solutions with Azure**
-- **Study Australia Industry Experience Program Completer**
+- **Google Advanced Data Analytics Certification** [https://www.coursera.org/account/accomplishments/specialization/LLZCWPL23U6R]
+- **Build and Operate Machine Learning Solutions with Azure** [https://coursera.org/share/https://coursera.org/share/521bc1dce8b6ffb8b8ab6c0c8c90de13]
+- **Study Australia Industry Experience Program Completer** [https://api.practera.com/achieve/user_achievements/assertion/d4r7junAW.json]
+- **Business Analysis Foundations** [https://www.linkedin.com/learning/certificates/2bf0d93c2b32bbdf6a380f7baf0daca611c8be65bfe6015bea5638c592d466de?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BPMLRrx3%2FSTerYu%2FxBa7Xjw%3D%3D]
+- **Time Management Fundamentals** [https://www.linkedin.com/learning/certificates/d22bec6e4e60f5564ce73f486b70c7c6deae364d636362a2e15b59a0468f23c0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BPMLRrx3%2FSTerYu%2FxBa7Xjw%3D%3D]
+- **Microsoft Azure Machine Learning for Data Scientist** [https://coursera.org/share/695c787822b9ec8f7b0ed35a1a499f77]
 
 ## Experience
-
-### Python Developer
-- **Company:** Space Shuttle Parking
-- **Location:** Sydney
-- **Duration:** August 2022 - January 2024
-- **Responsibilities:**
-  - Developed and maintained Python applications.
-  - Collaborated with clients to understand their requirements and deliver high-quality solutions.
-  - Utilized data analysis and visualization techniques to provide insights.
 
 ### Python Developer / Flutter Developer
 - **Duration:** [Start Date] - Present
@@ -95,9 +89,9 @@ Recently completed the Google Advanced Data Analytics Certificate—a rigorous, 
 
 Feel free to reach out to me for collaboration or any inquiries.
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [danishajaib@outlook.com](mailto:danishajaib@outlook.com)
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
+- **GitHub:** [github.com/DanishAjaib/danishajaib.github.io](https://github.com/DanishAjaib/danishajaib.github.io)
 
 ---
 
